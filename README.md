@@ -11,7 +11,7 @@ Grab the [latest release](https://github.com/bendetat/vs-launchy-thing/releases)
 
 In your favourite console, type `vs` and hit `<Enter>`. `vs` searches the current path for any files named `*.sln`. If only one solution file is found, it is opened immediately (using `Process.Start`). If there are multiple solutions found it prompts for the solution to open. Enter the number and press enter, or just hit enter to select the first solution.
 
-![](https://github.com/bendetat/vs-launchy-thing/releases)
+![](http://i.imgur.com/CGDZ3LV.png)
 
     ? vs
     [1]: c:\source\REDACTED\REDACTED.Slim.sln
