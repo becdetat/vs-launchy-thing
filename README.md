@@ -1,4 +1,4 @@
-vs-launchy-thing
+VS Launchy Thing
 ================
 
 Tiny console app to select and launch a Visual Studio solution
