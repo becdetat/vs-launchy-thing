@@ -8,7 +8,7 @@ namespace LaunchyThingTests
         [Test]
         public void BecauseTestsAreGrand()
         {
-            true.ShouldBe(true);
+            true.ShouldBe(false);
         }
     }
 }
